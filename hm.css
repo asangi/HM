@@ -1,0 +1,67 @@
+.jumbotron {
+	background-image: url('http://www.somethingpeach.com/wp-content/uploads/2014/07/wallpaper_004_2880x1800.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.jumbotron .container {
+	font-family:'Calligraffitti', cursive;
+	position: relative;
+	top:1px;
+	padding: 10px; /* I added padding to the containers so there is space. */
+}
+.jumbotron h1 {
+	color: darkorange;
+	font-size: 90px;
+	font-weight: bold;
+}
+
+.jumbotron p {
+	font-size:20px;
+	color: darkslategray;
+}
+.neighborhood-guides h2 { 
+	font-family: 'Calligraffitti', cursive;
+}
+.neighborhood-guides .container {
+	width: 100%;
+	background-color: powderblue;
+	border-bottom: 2px solid #dbdbdb;
+	padding: 10px;
+}
+.apartment-guides h2 {
+	font-family: 'Calligraffitti', cursive;
+}
+.apartment-guides .couple {
+	background-color: pink;
+	border-bottom: 2px solid #dbdbdb;
+	padding: 10px;
+}
+.house-guides .single {
+	background-color: gainsboro;
+	border-bottom: 2px solid #dbdbdb; 
+	padding: 10px; 
+	text-align: center;
+	position: relative;
+}
+#guides {
+	background-color: darkseagreen;
+	border-bottom: 2px solid #dbdbdb;
+	padding: 10px;
+	text-align: center;
+	position: relative;
+}
+#footer {
+	background-color: plum;
+	border-bottom:2px solid #dbdbdb;
+	position:relative;
+	text-align: center;
+	padding: 10px;
+}
+#footer p {
+	padding: 10px;
+	position: relative;
+}
+a {
+	font-family:'Calligraffitti', cursive;
+}
